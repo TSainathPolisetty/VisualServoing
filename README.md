@@ -31,7 +31,7 @@ There are three nodes to run.
 
 1. Simulation
 
-'roslaunch rrbot_gazebo rrbot_world_with_scout.launch`
+`roslaunch rrbot_gazebo rrbot_world_with_scout.launch`
 
 2. Object detection
 In a new terminal
