@@ -65,3 +65,10 @@ In a new terminal
 You can optionally run teleop_keyword to control the red UGV.
 
 `rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
+
+
+### Demo of Visual Servoing with RRBOT(Pan-Tilt)`
+[![IMAGE ALT TEXT HERE](https://youtu.be/WAG4dLzN1zk)](https://youtu.be/WAG4dLzN1zk)
+
+
+
